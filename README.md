@@ -11,91 +11,45 @@
     <br>
     🎞️ Ver video <a href="https://www.youtube.com/watch?v=ip9q-Kdsr2c&t=1235s" style="text-decoration: none; color:black">API REST simple con Go Golang y Gin<a>
     <div class="card" style="width: 35em; overflow: hidden">
-        <iframe width="560rem" height="360rem" src="https://www.youtube.com/embed/ip9q-Kdsr2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <div class="card-body" style="background-color: rgb(233, 208, 140);">
-            <h5 class="card-title">Lista de contenidos</h5>
-            <p class="card-text" style="text-align: justify;">
-                <h6>
-                    ⏩  0:00  ➡ Intro
-                </h6>
-                <h6>
-                    ⏩  1:17  ➡ Crear proyecto de API-REST 
-                </h6>
-                <h6>
-                    ⏩  3:30  ➡ Instalar Gin
-                </h6>
-                <h6>
-                    ⏩  4:49  ➡ Creando la data de API-REST
-                </h6>
-                <h6>
-                    ⏩  8:22  ➡ Creando controladores - Handlers
-                </h6>
-                <h6>
-                    ⏩10:20  ➡ Creado rutas  y servidor 
-                </h6>
-                <h6>
-                    ⏩12:00  ➡ Instalar Thunder Client 
-                </h6>
-                <h6>
-                    ⏩12:20  ➡ Provando API-REST
-                </h6>
-                <h6>
-                    ⏩15:10  ➡ Método POST 
-                </h6>
-                <h6>
-                    ⏩20:20  ➡ Manejo de ERROR 
-                </h6>
-                <h6>
-                    ⏩21:10  ➡ Escriba un controlador para devolver un artículo específico
-                </h6>
-                <h6>
-                    ⏩26:50  ➡ Final
-                </h6>
-            </p>
-    🎞️ Ver video <a href="https://www.youtube.com/watch?v=ip9q-Kdsr2c&t=1235s">API REST simple con Go Golang y Gin<a>
-    <br><br>
-        <div class="card" style="width: 35em; overflow: hidden">
-            <iframe width="560rem" height="360rem" src="https://www.youtube.com/embed/ip9q-Kdsr2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <div class="card-body">
-                <h5 class="card-title">Lista de contenido</h5>
-                <p class="card-text" style="text-align: justify;">
-                    <h6>
-                        ⏩  0:00  ➡ Intro
-                    </h6>
-                    <h6>
-                        ⏩  1:17  ➡ Crear proyecto de API-REST 
-                    </h6>
-                    <h6>
-                        ⏩  3:30  ➡ Instalar Gin
-                    </h6>
-                    <h6>
-                        ⏩  4:49  ➡ Creando la data de API-REST
-                    </h6>
-                    <h6>
-                        ⏩  8:22  ➡ Creando controladores - Handlers
-                    </h6>
-                    <h6>
-                        ⏩10:20  ➡ Creado rutas  y servidor 
-                    </h6>
-                    <h6>
-                        ⏩12:00  ➡ Instalar Thunder Client 
-                    </h6>
-                    <h6>
-                        ⏩12:20  ➡ Provando API-REST
-                    </h6>
-                    <h6>
-                        ⏩15:10  ➡ Método POST 
-                    </h6>
-                    <h6>
-                        ⏩20:20  ➡ Manejo de ERROR 
-                    </h6>
-                    <h6>
-                        ⏩21:10  ➡ Escriba un controlador para devolver un artículo específico
-                    </h6>
-                    <h6>
-                        ⏩26:50  ➡ Final
-                    </h6>
-                </p>
-            </div>
-        </div>
+    <iframe width="560rem" height="360rem" src="https://www.youtube.com/embed/ip9q-Kdsr2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="card-body" style="background-color: rgb(233, 208, 140);">
+        <h5 class="card-title">Lista de contenidos</h5>
+        <p class="card-text" style="text-align: justify;">
+            <h6>
+                ⏩  0:00  ➡ Intro
+            </h6>
+            <h6>
+                ⏩  1:17  ➡ Crear proyecto de API-REST 
+            </h6>
+            <h6>
+                ⏩  3:30  ➡ Instalar Gin
+            </h6>
+            <h6>
+                ⏩  4:49  ➡ Creando la data de API-REST
+            </h6>
+            <h6>
+                ⏩  8:22  ➡ Creando controladores - Handlers
+            </h6>
+            <h6>
+                ⏩10:20  ➡ Creado rutas  y servidor 
+            </h6>
+            <h6>
+                ⏩12:00  ➡ Instalar Thunder Client 
+            </h6>
+            <h6>
+                ⏩12:20  ➡ Provando API-REST
+            </h6>
+            <h6>
+                ⏩15:10  ➡ Método POST 
+            </h6>
+            <h6>
+                ⏩20:20  ➡ Manejo de ERROR 
+            </h6>
+            <h6>
+                ⏩21:10  ➡ Escriba un controlador para devolver un artículo específico
+            </h6>
+            <h6>
+                ⏩26:50  ➡ Final
+            </h6>
+        </p>
     </div>
