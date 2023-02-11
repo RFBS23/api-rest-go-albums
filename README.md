@@ -4,12 +4,14 @@
 </head>
 <body>
     <div class="container py-4">
+    <a href="https://fabriziobarriossaavedra.github.io/api-rest-go/">Vizualiza el Readme Aqui</a>
     <h3>Este es mi primera API REST HECHA con GO (GOLANG) Y GIN</h3>
     Pueden visualizar en 
     <br>
     📒 ONENOTE: <a href="https://onedrive.live.com/view.aspx?resid=A63B3F665A5415ED%212527&id=documents&wd=target%28Go%20%28Golang%5C%29%20y%20Gin.one%7C71708F56-1667-4CC7-AF63-5B8E79E1225F%2F%29" style="text-decoration: none; color:black">Pasos del git</a>
     <br>
     🎞️ Ver video <a href="https://www.youtube.com/watch?v=ip9q-Kdsr2c&t=1235s" style="text-decoration: none; color:black">API REST simple con Go Golang y Gin<a>
+    <br><br>
     <div class="card" style="width: 35em; overflow: hidden">
     <iframe width="560rem" height="360rem" src="https://www.youtube.com/embed/ip9q-Kdsr2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     <div class="card-body" style="background-color: rgb(233, 208, 140);">
