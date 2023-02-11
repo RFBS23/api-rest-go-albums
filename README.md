@@ -6,5 +6,5 @@ ONENOTE: <a href="https://onedrive.live.com/view.aspx?resid=A63B3F665A5415ED%212
 puedes ver el video <a href="https://www.youtube.com/watch?v=ip9q-Kdsr2c&t=1235s">API REST simple con Go Golang y Gin<a>
 
 <div class="container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ip9q-Kdsr2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="660" height="315" src="https://www.youtube.com/embed/ip9q-Kdsr2c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
