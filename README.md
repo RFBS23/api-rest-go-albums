@@ -4,7 +4,7 @@
 </head>
 <body>
     <div class="container py-4">
-    <a href="https://fabriziobarriossaavedra.github.io/api-rest-go/">Vizualiza el Readme Aqui</a>
+    <a href="https://rfbs23.github.io/api-rest-go-albums/">Vizualiza el Readme Aqui</a>
     <h3>Este es mi primera API REST HECHA con GO (GOLANG) Y GIN</h3>
     Pueden visualizar en 
     <br>
